@@ -30,6 +30,7 @@ Challenge proposed by belolabs1024. A web card memory game, backended to mongodb
   npm start
  ```
 
-Obs. Given the application was developed using GitHub Codespaces, the frontend requests may need some ajustment for communicate properly. Update the ``axios.post`` links with the link provided by your environment.
-     For GitHub Codespaces you must make the backend port public
+Obs 1. - Given the application was developed using GitHub Codespaces, the frontend requests may need some ajustment for communicate properly. Update the ``axios.post`` links with the link provided by your environment.
+
+Obs 2. - For GitHub Codespaces you must make the backend port public
 
