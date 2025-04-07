@@ -9,7 +9,7 @@ Challenge proposed by belolabs1024, a web card memory game backended to mongodb 
 1 - Retrieve this repository via URL
 
  ```git
-    git clone https://github.com/Btwo2/WonderCards
+  git clone https://github.com/Btwo2/WonderCards
  ```
 
 2 - Navigate to the project directory:
