@@ -30,6 +30,6 @@ Challenge proposed by belolabs1024. A web card memory game, backended to mongodb
   npm start
  ```
 
-Given the application was developed using GitHub Codespaces, the routes may need some ajustment for communicate properly  
+Given the application was developed using GitHub Codespaces, the frontend requests may need some ajustment for communicate properly. Update the ``axios.post`` links with the link provided by your environment.
  
 
